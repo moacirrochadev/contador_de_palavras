@@ -31,7 +31,7 @@ O script ignora diferencas entre maiusculas e minusculas e desconsidera pontuaca
 
 ## Repositorio
 
-- URL: `https://github.com/SEU_USUARIO/SEU_REPOSITORIO`
+- URL: `https://github.com/moacirrochadev/contador_de_palavras`
 
 ## Requisitos
 
@@ -43,7 +43,7 @@ O script ignora diferencas entre maiusculas e minusculas e desconsidera pontuaca
 Clone o repositorio e entre na pasta do projeto:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/moacirrochadev/contador_de_palavras>
 cd curso-python/contador_de_palavras
 ```
 
